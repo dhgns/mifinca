@@ -1,0 +1,50 @@
+{
+  "login": {
+  	"userId": "184729530",
+  	"sessionToken": "eTksdfmiFEKEsd;dmjervSasmjwef09990"
+  },
+  "getBeefs": [
+  	{
+  		"image":"https://cdn.pixabay.com/photo/2016/11/06/18/33/cow-1803712_960_720.jpg",
+  		"name":"Manchada",
+  		"birthDate": "12274829247",
+  		"race": "Limusina",
+  		"tagNumber":"GHS2941",
+  		"partos": [
+  			{
+  			"tagNumber":"GHS2943",
+  			"gender":"male",
+  			"birthdate":"12274829287"
+  			},
+  			{
+  			"tagNumber":"GHS2942",
+  			"birthdate":"12274829287",
+  			"gender":"female"
+  			}
+  		],
+  		"deathDate": "",
+  		"observations":""
+  	},
+  	{
+  		"image":"https://i.blogs.es/870b55/vaca1/450_1000.jpg",
+  		"name":"Manchada",
+  		"birthDate": "12274829247",
+  		"race": "Limusina",
+  		"tagNumber":"GHS2941",
+  		"partos": [
+  			{
+  			"tagNumber":"GHS2943",
+  			"gender":"male",
+  			"birthdate":"12274829287"
+  			},
+  			{
+  			"tagNumber":"GHS2942",
+  			"birthdate":"12274829287",
+  			"gender":"female"
+  			}
+  		],
+  		"deathDate": "",
+  		"observations":""
+  	},
+  ]
+}
